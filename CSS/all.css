@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC:700,900&subset=chinese-traditional");
+html, body {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.grid {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+#chart {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+/*# sourceMappingURL=all.css.map */
